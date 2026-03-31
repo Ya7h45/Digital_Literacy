@@ -1,0 +1,21 @@
+-----1----
+
+Write an email from a student to their professor requesting an extension on an assignment submission deadline. The email must follow all professional email rules.
+
+Dear Professor,
+
+I hope you are doing well.
+
+I am writing to respectfully request an extension for the submission of the "BRING YOUR OWN PROJECT ", which is currently due on 31/03/2026 . Unfortunately, due to health issues, I have not been able to complete the assignment to the best of my ability within the given timeframe.
+
+I am committed to maintaining the quality of my work and would greatly appreciate it if you could grant me an extension until 5/04/2026. I assure you that I will utilize this additional time effectively to submit a well-prepared assignment.
+
+I sincerely apologize for any inconvenience caused and thank you for considering my request. Please let me know if any further information is required.
+
+Yours sincerely,
+Yash Srivastava
+Fundamentals of AIML
+25BAI10932
+
+
+
